@@ -1,4 +1,8 @@
-# Awesome-collision
+# Awesome-collision ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+This repository contains a proof of concept for cryptographic functions that are vulnerable to `collision attack`   
+**The PoC and the research is not by me**
+
+
 
 # Functions table
 | Function | Is vulnerable | Added  |
@@ -8,6 +12,7 @@
 | MD4      | Yes           | Yes  	|
 | RIPMED   | Yes           | No  	  |
 | HAVAL-128| Yes           | No  	  |
+
 &nbsp;
 &nbsp;
 
@@ -20,8 +25,8 @@ Input2: 4e65616c204b6f626c69747a0a4e65616c204b6f626c69747a0a4e65616c204b6f626c69
 ```
 ```php
 md5("Input1") == md5("Input2")
-&nbsp;
 ```
+&nbsp;
 #### PHP
 ```php
 md5('240610708') == md5('QNKCDZO')
