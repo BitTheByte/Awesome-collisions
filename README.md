@@ -57,8 +57,6 @@ Input2: 255044462D312E330A25E2E3CFD30A0A0A312030206F626A0A3C3C2F5769647468203220
 ```php
 sha1("input1") == sha1("input2")
 ```
-&nbsp;
-
 #### PHP
 ```php
 sha1('aaroZmOk') == sha1('aaK1STfY')
