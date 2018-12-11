@@ -7,6 +7,9 @@ This repository contains a proof of concept for cryptographic functions that are
 # Functions table
 | Function         | Is vulnerable | Added  |
 |------------------|---------------|--------|
+| MD4              | Yes           | Yes  	|
+| MD5              | Yes           | Yes  	|
+| SHA-1            | Yes           | Yes  	|
 | RIPMED           | Yes           | No     |
 | RIPEMD-128       | Yes           | No     |
 | RIPEMD-160       | Yes           | No     |
@@ -24,11 +27,8 @@ This repository contains a proof of concept for cryptographic functions that are
 | JH               | NaN           | No     |
 | LSH              | NaN           | No     |
 | MD2	             | NaN           | No     |
-| MD4              | Yes           | Yes  	|
-| MD5              | Yes           | Yes  	|
 | MD6	             | NaN           | No     |
 | RadioGatún       | NaN           | No     |
-| SHA-1            | Yes           | Yes  	|
 | SHA-224          | NaN           | No     |
 | SHA-256          | NaN           | No     |
 | SHA-384          | NaN           | No     |
@@ -41,6 +41,8 @@ This repository contains a proof of concept for cryptographic functions that are
 | SWIFFT           | NaN           | No     |
 | Tiger            | NaN           | No     |
 | Whirlpool        | NaN           | No     |
+
+
 
 &nbsp;
 &nbsp;
