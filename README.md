@@ -10,6 +10,8 @@ This repository contains a proof of concept for cryptographic functions that are
 | MD4              | Yes           | Yes  	|
 | MD5              | Yes           | Yes  	|
 | SHA-1            | Yes           | Yes  	|
+| SHA-2            | Theoretically | No     |
+| SHA-3            | Theoretically | No     |
 | RIPMED           | Yes           | No     |
 | RIPEMD-128       | Yes           | No     |
 | RIPEMD-160       | Yes           | No     |
@@ -33,7 +35,6 @@ This repository contains a proof of concept for cryptographic functions that are
 | SHA-256          | NaN           | No     |
 | SHA-384          | NaN           | No     |
 | SHA-512          | NaN           | No     |
-| SHA-3            | NaN           | No     |
 | Skein            | NaN           | No     |
 | Snefru           | NaN           | No     |
 | Spectral         | NaN           | No     |
