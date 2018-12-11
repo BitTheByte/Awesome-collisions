@@ -55,12 +55,7 @@ Input2: 4e65616c204b6f626c69747a0a4e65616c204b6f626c69747a0a4e65616c204b6f626c69
 ```php
 md5("Input1") == md5("Input2")
 ```
-#### PHP
-```php
-md5('240610708') == md5('QNKCDZO')
-md5('aabg7XSs') == md5('aabC9RqS')
-md5("0e215962017") == "0e215962017"
-```
+
 &nbsp;
 
 
@@ -86,11 +81,14 @@ Input2: 255044462D312E330A25E2E3CFD30A0A0A312030206F626A0A3C3C2F5769647468203220
 ```php
 sha1("input1") == sha1("input2")
 ```
-#### PHP
+
+&nbsp;
+
+## PHP
 ```php
 sha1('aaroZmOk') == sha1('aaK1STfY')
 sha1('aaO8zKZF') == sha1('aa3OFF9m')
-``` 
-&nbsp;
-
-
+md5('240610708') == md5('QNKCDZO')
+md5('aabg7XSs') == md5('aabC9RqS')
+md5("0e215962017") == "0e215962017"
+```
