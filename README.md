@@ -5,13 +5,42 @@ This repository contains a proof of concept for cryptographic functions that are
 
 
 # Functions table
-| Function | Is vulnerable | Added  |
-|----------|---------------|--------|
-| MD5      | Yes           | Yes  	|
-| SHA1     | Yes           | Yes  	|
-| MD4      | Yes           | Yes  	|
-| RIPMED   | Yes           | No  	  |
-| HAVAL-128| Yes           | No  	  |
+| Function         | Is vulnerable | Added  |
+|------------------|---------------|--------|
+| RIPMED           | Yes           | No     |
+| RIPEMD-128       | Yes           | No     |
+| RIPEMD-160       | Yes           | No     |
+| RIPEMD-320       | Yes           | No     |
+| HAVAL-128        | Yes           | No    	|
+| BLAKE-256        | NaN           | No     |
+| BLAKE-512        | NaN           | No     |
+| BLAKE2s          | NaN           | No     |
+| BLAKE2b          | NaN           | No     |
+| ECOH             | NaN           | No     |
+| FSB              | NaN           | No     |
+| GOST             | NaN           | No     |
+| Grøstl           | NaN           | No     |
+| HAS-160          | NaN           | No     |
+| JH               | NaN           | No     |
+| LSH              | NaN           | No     |
+| MD2	             | NaN           | No     |
+| MD4              | Yes           | Yes  	|
+| MD5              | Yes           | Yes  	|
+| MD6	             | NaN           | No     |
+| RadioGatún       | NaN           | No     |
+| SHA-1            | Yes           | Yes  	|
+| SHA-224          | NaN           | No     |
+| SHA-256          | NaN           | No     |
+| SHA-384          | NaN           | No     |
+| SHA-512          | NaN           | No     |
+| SHA-3            | NaN           | No     |
+| Skein            | NaN           | No     |
+| Snefru           | NaN           | No     |
+| Spectral         | NaN           | No     |
+| Streebog         | NaN           | No     |
+| SWIFFT           | NaN           | No     |
+| Tiger            | NaN           | No     |
+| Whirlpool        | NaN           | No     |
 
 &nbsp;
 &nbsp;
