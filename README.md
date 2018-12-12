@@ -1,7 +1,8 @@
 # Awesome-collisions ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 This repository contains a proof of concept for cryptographic functions that are vulnerable to `collision attack`   
-**The PoC and the research is not by me**
-
+I'm not a cryptography expert if you notice a mistake please open a issue  
+If you have a PoC and want to be added send a pull request  
+**The PoC and the research is not by me**  
 
 
 # Functions table
